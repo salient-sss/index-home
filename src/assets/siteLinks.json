@@ -7,7 +7,7 @@
   {
     "icon": "Cloud",
     "name": "网盘",
-    "link": "http://pan.salient.fun:81/"
+    "link": "http://pan.salient.fun:5244/"
   },
   {
     "icon": "CompactDisc",
@@ -15,23 +15,18 @@
     "link": "http://music.salient.fun:81/"
   },
   {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "http://salient.fun:81/"
-  },
-  {
-    "icon": "Movies",
+    "icon": "Bilibili",
     "name": "电影",
-    "link": "http://movies./salient.fun:21008/"
+    "link": "http://movies.salient.fun:21008/"
   },
   {
     "icon": "Fire",
     "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
+    "link": "https://hot.salient.fun:81/"
   },
   {
     "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "name": "面板",
+    "link": "http://salient.fun:8877/"
   }
 ]
