@@ -2,12 +2,12 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "http://blog.salient.fun:81/"
+    "link": "http://salient.fun:9900/"
   },
   {
     "icon": "Cloud",
     "name": "网盘",
-    "link": "http://pan.salient.fun:5244/"
+    "link": "http://salient.fun:8123/"
   },
   {
     "icon": "CompactDisc",
